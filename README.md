@@ -3,7 +3,7 @@ Radio PPM control Simulation
 </h1>
 <p align="center">
 <em>
-Flysky  and Arduino integration - UnoJoy
+Radio PPM control simulation Drone - UnoJoy, Liftoff
 </em> </p>
 
 
