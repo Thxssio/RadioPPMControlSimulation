@@ -1,9 +1,9 @@
 <h1 align="center">
-Flysky Arduino
+Radio PPM control Simulation
 </h1>
 <p align="center">
 <em>
-Flysky and Arduino integration - UnoJoy
+Flysky  and Arduino integration - UnoJoy
 </em> </p>
 
 
