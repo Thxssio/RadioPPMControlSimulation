@@ -24,12 +24,13 @@ https://github.com/Thxssio/FlyskyAndArduino
 
 - ***Reset the arduino using the reset button***
 
-- ***Run `TurnIntoAJoystick.bat` [ In case of error, it will be necessary to place the `AtLibUsbDfu.dll` driver in the Atmel usb folder***
+- ***Run `TurnIntoAJoystick.bat`***
 
+> ***In case of error, it will be necessary to place the `AtLibUsbDfu.dll` driver in the Atmel usb folder***
 ```
 C:\Program Files (x86)\Atmel\Flip 3.4.7\usb
 
 ```
-- ***And install the driver from the control panel***
+> ***And install the driver from the control panel***
 
 - ***Done that, your joystick is ready***
