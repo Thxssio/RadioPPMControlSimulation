@@ -1,5 +1,5 @@
 <h1 align="center">
-Radio PPM control Simulation
+Radio PPM Control Simulation
 </h1>
 <p align="center">
 <em>
