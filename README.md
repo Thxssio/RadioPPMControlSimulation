@@ -1,5 +1,5 @@
 <h1 align="center">
-Radio PPM Control Simulation
+Radio PPM Control Simulation (Flysky)
 </h1>
 <p align="center">
 <em>
